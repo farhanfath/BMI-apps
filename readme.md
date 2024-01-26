@@ -30,7 +30,7 @@
 <hr>
 
 <h2>DEMO</h2>
-<img src="Readme/demo/demo.gif" width="700">
+<img src="demo/demo.gif" width="700">
 
 <table>
   <tr>
@@ -38,8 +38,8 @@
      <td>UserSection</td>
   </tr>
   <tr>
-    <td><img src="Readme/demo/homepage.png" width="400"></td>
-    <td><img src="Readme/demo/userSection.png" width="300"></td>    
+    <td><img src="demo/homepage.png" width="400"></td>
+    <td><img src="demo/userSection.png" width="300"></td>    
   </tr>
 </table>
 
@@ -49,8 +49,8 @@
         <td>AdminSection Page</td>
     </tr>
     <tr>
-      <td><img src="Readme/demo/autentikasi.png" width="300"></td>
-      <td><img src="Readme/demo/adminSection.png" width="500"></td>
+      <td><img src="demo/autentikasi.png" width="300"></td>
+      <td><img src="demo/adminSection.png" width="500"></td>
     </tr>
 </table>
 
